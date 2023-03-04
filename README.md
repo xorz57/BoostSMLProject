@@ -1,3 +1,3 @@
 # BoostSMLProject
 
-Boost SML Project written in C++
+Boost SML Project using CMake
