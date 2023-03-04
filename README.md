@@ -1,3 +1,3 @@
-# BoostSMLTemplateProject
+# BoostSMLProject
 
-Boost.SML Template Project written in C++
+Boost.SML Project written in C++
