@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.24)
-project(BoostSMLProjectTemplate)
+project(BoostSMLProject)
 
 set(CMAKE_CXX_STANDARD 14)
 
